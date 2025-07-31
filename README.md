@@ -20,8 +20,8 @@ All circuits are built, simulated, and visualized using `Qiskit` and `matplotlib
 
 ```bash
 .
-├── Quantum Hadamard Walk.ipynb            # Quantum Hadamard Walk circuit and plot
-├── Quantum Exponential Distribution.ipynb # Quantum Exponential Distribution circuit
-├── Normal Distribution.ipynb      # Quantum Bell/Normal-like Distribution
-├── README.md                   # Project documentation
+├── Quantum Hadamard Walk.ipynb                    # Quantum Hadamard Walk circuit and plot
+├── Quantum Exponential Distribution.ipynb         # Quantum Exponential Distribution circuit
+├── Normal Distribution.ipynb                      # Quantum Bell/Normal-like Distribution
+├── README.md                                      # Project documentation
 
