@@ -1,4 +1,4 @@
-# 🧠 Project: Quantum Walks and Monte Carlo
+# ⚛️ Project: Quantum Walks and Monte Carlo 
 
 A collection of quantum circuit implementations designed to simulate **quantum probability distributions** using `Qiskit`. This repository explores quantum analogs of **classical distributions** through clever gate constructions and ancilla-controlled operations.
 
@@ -8,13 +8,13 @@ A collection of quantum circuit implementations designed to simulate **quantum p
 
 ---
 
-## 🚀   Team Members 
+## 🔬   Team Members 
 
 1. Noman Bin Morshed (Wiser ID: gst-KYPWNvuRHBmt1oc)
 
 ---
 
-## 🚀 Project Summary
+## 🧠 Project Summary
 
 This project showcases three unique quantum circuits that simulate:
 
