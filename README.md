@@ -20,9 +20,9 @@ Turing's Church
 
 This project showcases three unique quantum circuits that simulate:
 
-1. **Quantum Hadamard Walk** – simulates a discrete-time quantum walk using Hadamard, CSWAP, and coin-flip logic.
+1. **Quantum-inspired Normal Distribution** – mimics bell-shaped distributions using ancilla-driven amplitude control.
 2. **Quantum Exponential Distribution** – spreads amplitude exponentially using RX and CSWAP gates.
-3. **Quantum-inspired Normal Distribution** – mimics bell-shaped distributions using ancilla-driven amplitude control.
+3. **Quantum Hadamard Walk** – simulates a discrete-time quantum walk using Hadamard, CSWAP, and coin-flip logic.
 
 All circuits are built, simulated, and visualized using `Qiskit` and `matplotlib`.
 
@@ -34,8 +34,10 @@ The solutions presented here are based on the approach described in the paper *"
 
 ```bash
 .
-├── Quantum Hadamard Walk.ipynb                    # Quantum Hadamard Walk
-├── Quantum Exponential Distribution.ipynb         # Quantum Exponential Distribution
-├── Normal Distribution.ipynb                      # Quantum Bell/Normal-like Distribution
-├── README.md                                      # Project documentation
+├── Normal Distribution.ipynb                                                # Quantum Bell/Normal-like Distribution
+├── Quantum Exponential Distribution.ipynb                                   # Quantum Exponential Distribution
+├── Quantum Hadamard Walk.ipynb                                              # Quantum Hadamard Walk
+├── README.md                                                                # Project documentation
+├── Universal Statistical Simulator Summary.pdf                              # Paper Summary
+
 
