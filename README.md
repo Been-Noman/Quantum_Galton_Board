@@ -34,10 +34,10 @@ The solutions presented here are based on the approach described in the paper *"
 
 ```bash
 .
-├── Normal Distribution.ipynb                                                # Quantum Bell/Normal-like Distribution
-├── Quantum Exponential Distribution.ipynb                                   # Quantum Exponential Distribution
-├── Quantum Hadamard Walk.ipynb                                              # Quantum Hadamard Walk
-├── README.md                                                                # Project documentation
-├── Universal Statistical Simulator Summary.pdf                              # Paper Summary
+├── Normal Distribution.ipynb                                      # Quantum Bell/Normal-like Distribution
+├── Quantum Exponential Distribution.ipynb                         # Quantum Exponential Distribution
+├── Quantum Hadamard Walk.ipynb                                    # Quantum Hadamard Walk
+├── README.md                                                      # Project documentation
+├── Universal Statistical Simulator Summary.pdf                    # Paper Summary
 
 
