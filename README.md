@@ -4,7 +4,9 @@ A collection of quantum circuit implementations designed to simulate **quantum p
 
 ---
 
-## 🚀   Team Name: Turing's Church
+## 🚀   Team Name 
+
+Turing's Church
 
 ---
 
