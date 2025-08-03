@@ -28,16 +28,23 @@ All circuits are built, simulated, and visualized using `Qiskit` and `matplotlib
 
 The solutions presented here are based on the approach described in the paper *"Universal Statistical Simulator"* by Mark Carney and Ben Varcoe. The implementation builds on the observation that the method outlined in the paper closely resembles a diffusion process. Pauli-X gates are employed to initialize the starting site of diffusion. Hadamard or rotation gates are then used to control the amplitude across the multiqubit system. Controlled swap (CSWAP) gates are applied to direct the amplitude to specific diffusion sites. Ancilla qubits play a dual role—facilitating the diffusion of amplitude throughout the multiqubit configuration and enabling the resetting of qubits. This methodology is not limited to normal, exponential, and Hadamard quantum walk distributions; it can be extended to simulate a wide range of probability distributions.
 
+To model realistic execution conditions, thermal noise models based on relaxation and depolarizing channels were incorporated. Zero-Noise Extrapolation (ZNE) was applied as an error mitigation technique to reduce the impact of noise. This optimization approach yielded high-fidelity results across all circuits, achieving up to ~98% fidelity when compared to noiseless simulations.
+
 ---
 
 ## 📁 Directory Structure
 
 ```bash
 .
-├── Normal Distribution.ipynb                            # Quantum Bell/Normal-like Distribution
-├── Quantum Exponential Distribution.ipynb               # Quantum Exponential Distribution
-├── Quantum Hadamard Walk.ipynb                          # Quantum Hadamard Walk
-├── README.md                                            # Project documentation
-├── Universal Statistical Simulator Summary.pdf          # Paper Summary
+├── Task-1:   Universal Statistical Simulator Summary.pdf          # Paper Summary
+├── Task-2:   Normal Distribution.ipynb                            # Quantum Bell/Normal-like Distribution
+├── Task-3-a: Quantum Exponential Distribution.ipynb               # Quantum Exponential Distribution
+├── Task-3-b: Quantum Hadamard Walk.ipynb                          # Quantum Hadamard Walk
+├── Task-4-a: Normal Distribution Error Modeling.ipynb             # Quantum Bell/Normal-like Distribution Under Thermal Noise
+├── Task-4-b: Exponential Distribution Error Modeling.ipynb        # Quantum Exponential Distribution Under Thermal Noise
+├── Task-4-c: Hadamard Walk Error Modeling.ipynb                   # Quantum Hadamard Walk Under Thermal Noise
+├── Task-5:   Stochastic Uncertainty Analysis.ipynb                # Distance Between Actual and Error Mitigated Distribution
+├── README.md                                                      # Project documentation
+
 
 
