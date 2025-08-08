@@ -36,15 +36,14 @@ To model realistic execution conditions, hardware noise models based on "FakeGen
 
 ```bash
 .
-├── Task-1:   Universal Statistical Simulator Summary.pdf          # Paper Summary
-├── Task-2:   Normal Distribution.ipynb                            # Quantum Bell/Normal-like Distribution
-├── Task-3-a: Quantum Exponential Distribution.ipynb               # Quantum Exponential Distribution
-├── Task-3-b: Quantum Hadamard Walk.ipynb                          # Quantum Hadamard Walk
-├── Task-4-a: Normal Distribution Error Modeling.ipynb             # Quantum Bell/Normal-like Distribution Under Thermal Noise
-├── Task-4-b: Exponential Distribution Error Modeling.ipynb        # Quantum Exponential Distribution Under Thermal Noise
-├── Task-4-c: Hadamard Walk Error Modeling.ipynb                   # Quantum Hadamard Walk Under Thermal Noise
-├── Task-5:   Stochastic Uncertainty Analysis.ipynb                # Distance Between Actual and Error Mitigated Distribution
-├── README.md                                                      # Project documentation
+├── Task-1:       Universal Statistical Simulator Summary.pdf                  # Paper Summary
+├── Task-2:       Normal Distribution.ipynb                                    # Quantum Bell/Normal-like Distribution
+├── Task-3-a:     Quantum Exponential Distribution.ipynb                       # Quantum Exponential Distribution
+├── Task-3-b:     Quantum Hadamard Walk.ipynb                                  # Quantum Hadamard Walk
+├── Task-4&5-a:   Normal Distribution Error Modeling & Analysis.ipynb          # Quantum Bell/Normal-like Distribution Under Thermal Noise
+├── Task-4&5-b:   Exponential Distribution Error Modeling & Analysis.ipynb     # Quantum Exponential Distribution Under Thermal Noise
+├── Task-4&5-c:   Hadamard Walk Error Modeling & Analysis.ipynb                # Quantum Hadamard Walk Under Thermal Noise
+├── README.md     # Project documentation
 
 
 
