@@ -34,7 +34,7 @@ To model realistic execution conditions, hardware noise models based on "FakeGen
 
 ## 🧠 Project Presentation Deck
 
-Link: [Presentation Deck](https://1drv.ms/p/c/cba382d5b6a0311d/EUbmEm5FL4lFqRtLlS5257YBqlXWemW4CuUVGHRMjQ2ZWg?e=ol3UA2)
+Link: [Presentation Deck](https://1drv.ms/p/c/cba382d5b6a0311d/EaeYENPkpuJBg_CDo1HajbcBZv7NW0B0Wm1rHb1S66KJfA?e=P1Q6yI)
 
 ---
 
