@@ -32,6 +32,12 @@ To model realistic execution conditions, hardware noise models based on "FakeGen
 
 ---
 
+## 🧠 Project Presentation Deck
+
+Link: [Presentation Deck](https://1drv.ms/p/c/cba382d5b6a0311d/EUbmEm5FL4lFqRtLlS5257YBqlXWemW4CuUVGHRMjQ2ZWg?e=ol3UA2)
+
+---
+
 ## 📁 Directory Structure
 
 ```bash
@@ -43,7 +49,8 @@ To model realistic execution conditions, hardware noise models based on "FakeGen
 ├── Task-4&5-a:   Normal Distribution Error Modeling & Analysis.ipynb          # Quantum Bell/Normal-like Distribution Under Thermal Noise
 ├── Task-4&5-b:   Exponential Distribution Error Modeling & Analysis.ipynb     # Quantum Exponential Distribution Under Thermal Noise
 ├── Task-4&5-c:   Hadamard Walk Error Modeling & Analysis.ipynb                # Quantum Hadamard Walk Under Thermal Noise
-├── README.md     # Project documentation
+├── Presentation Deck.pptx     # Project presentation
+├── README.md                  # Project documentation
 
 
 
