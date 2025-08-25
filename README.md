@@ -46,9 +46,9 @@ Link: [Presentation Deck](https://1drv.ms/p/c/cba382d5b6a0311d/EaeYENPkpuJBg_CDo
 ├── Task-2:       Normal Distribution.ipynb                                    # Quantum Bell/Normal-like Distribution
 ├── Task-3-a:     Quantum Exponential Distribution.ipynb                       # Quantum Exponential Distribution
 ├── Task-3-b:     Quantum Hadamard Walk.ipynb                                  # Quantum Hadamard Walk
-├── Task-4&5-a:   Normal Distribution Error Modeling & Analysis.ipynb          # Quantum Bell/Normal-like Distribution Under Thermal Noise
-├── Task-4&5-b:   Exponential Distribution Error Modeling & Analysis.ipynb     # Quantum Exponential Distribution Under Thermal Noise
-├── Task-4&5-c:   Hadamard Walk Error Modeling & Analysis.ipynb                # Quantum Hadamard Walk Under Thermal Noise
+├── Task-4&5-a:   Normal Distribution Noise Modeling & Analysis.ipynb          # Quantum Bell/Normal-like Distribution Under Noise
+├── Task-4&5-b:   Exponential Distribution Noise Modeling & Analysis.ipynb     # Quantum Exponential Distribution Under Noise
+├── Task-4&5-c:   Hadamard Walk Noise Modeling & Analysis.ipynb                # Quantum Hadamard Walk Under Noise
 ├── Presentation Deck.pptx                                                     # Project presentation
 ├── README.md                                                                  # Project documentation
 
